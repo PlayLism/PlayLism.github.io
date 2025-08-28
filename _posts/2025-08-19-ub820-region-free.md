@@ -2,9 +2,9 @@
 layout: post
 title:  "Panasonic UB820 改全區教學"
 date:   2025-08-19 17:16:13 +0800
-categories: 教學
+categories: av
 ---
-![UB820 region free success](https://1drv.ms/i/c/d00c5681516ecaea/IQRbswG1wCabS54gObvVnUzoARTI9CmGKZHQCnAl1dm-BHo?width=1920&height=1440)
+![UB820 region free success](https://pub-8c1ddb5aa2ec46d28f40b4295cf14b39.r2.dev/2025/08/6c763da12fbb2c3d12db79aff94beece.jpeg)
 
 早幾個月買入 Panasonic UB820 UHD 藍光機，當時試過改全區但不成功，早前見到軟改全區方案有更新，終於成功。 
 
@@ -78,7 +78,7 @@ categories: 教學
 
 22. 開機後會見到 Panasonic 標誌下有 "Region Free" 字樣，代表改機成功。這時候可以把 Linux 虛擬機關機。建議備份 USB 儲存裝置中的 `fma4.img`、`fma5.img`、`fma6.img` 及 `fma7.img`，因為這是未經修改的原系統檔案。 
 
-![UB820 region free patcher success](https://1drv.ms/i/c/d00c5681516ecaea/IQQOhjGhysimTZfWWTxmyz9PAWTeRVOoJ4Arl5eyZBkoqG0?width=640&height=509)
+![UB820 region free patcher success](https://pub-8c1ddb5aa2ec46d28f40b4295cf14b39.r2.dev/2025/08/bc8bb81ecd23bbe577768bc647405af5.jpg)
 
 ### 改區碼方法： 
 
