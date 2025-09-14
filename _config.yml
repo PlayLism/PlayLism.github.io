@@ -23,12 +23,13 @@ email: playlism@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   所有對音響，電腦，手機等等的科技發燒友，來玩吧! Let's Play!!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "PlayLism.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://playlism.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
