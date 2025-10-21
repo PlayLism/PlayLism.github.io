@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mad Max: Fury Road: 天無絕人之路"
-date:   2025-10-08 20:35:00 +0800
+date:   2025-10-17 20:35:00 +0800
 categories: movie
 ---
 ![](https://pub-8c1ddb5aa2ec46d28f40b4295cf14b39.r2.dev/2025/10/615c582ef3e69df83e01b243b8ed837e.jpg)

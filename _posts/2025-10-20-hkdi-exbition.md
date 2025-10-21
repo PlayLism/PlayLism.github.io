@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "時代留聲：樂壇聲影經典重現攝影展"
-date:   2025-09-13 17:26:00 +0800
+date:   2025-10-20 18:04:00 +0800
 categories: music
 ---
 ![](https://pub-8c1ddb5aa2ec46d28f40b4295cf14b39.r2.dev/2025/10/a712f73a4da521c37f609e13147fd862.jpg)
